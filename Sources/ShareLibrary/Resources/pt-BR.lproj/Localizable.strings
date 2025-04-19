@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Rafael Valer - Personal on 31/07/23.
+  
+*/
+
+"close" = "Fechar";
+"image_saved" = "Imagem Salva";
+"image_saved_description" = "A imagem foi salva com sucesso em sua galeria";
+"messages" = "Mensagens";
+"more" = "Mais";
+"ok" = "Ok";
+"save_image" = "Salvar imagem";
+"settings" = "Configurações";
+"share" = "Compartilhar";
+
+// Errors
+"attachments_are_not_supported_description" = "Erro de anexo";
+"attachments_are_not_supported_recovery_suggestion" = "Atualmente, os anexos não são suportados em seu dispositivo. Verifique as configurações do seu dispositivo ou tente novamente mais tarde.";
+"couldnt_convert_image_to_data_description" = "Não foi possível compartilhar essa imagem";
+"couldnt_convert_image_to_data_recovery_suggestion" = "Desculpe, não foi possível completar a operação. Por favor, tente novamente mais tarde.";
+"couldnt_save_image_description" = "Este aplicativo precisa de acesso às suas fotos para continuar";
+"couldnt_save_image_recovery_suggestion" = "Acesse Configurações > Privacidade > Fotos, para permitir que o aplicativo salve em sua galeria.";
+"unknown_description" = "Algo deu errado";
+"unknown_recovery_suggestion" = "Ocorreu um erro. Por favor, tente novamente mais tarde.";
