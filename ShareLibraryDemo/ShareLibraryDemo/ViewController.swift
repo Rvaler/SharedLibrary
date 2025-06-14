@@ -5,7 +5,7 @@
 //  Created by Rafael Valer - Personal on 07/05/23.
 //
 
-import ShareLibrary
+import SharedLibrary
 import UIKit
 
 class MyViewController: UIViewController {
